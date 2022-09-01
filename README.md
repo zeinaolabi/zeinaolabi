@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack development**
 
-- 💬 Ask me about **my cat, then, maybe, some coding problems**
+- 💬 Ask me about **my cat, then maybe, some coding problems**
 
 - ⚡ Fun fact **meow**
 
