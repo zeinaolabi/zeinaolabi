@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Zeina!💜</h1> 
 <h3 align="center">A passionate Full-Stack Developer</h3>
-<hr/>
+
 <img align="right" width="300" height="200" src="https://makeupandbeautyblog.com/wp-content/uploads/2021/08/tabs-genius-coder.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeinaolabi&label=Profile%20views&color=0e75b6&style=flat" alt="zeinaolabi" /> </p>
 
